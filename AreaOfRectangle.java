@@ -1,3 +1,8 @@
+//Day 4 - Basic Arithmetic Operations
+//Write a program that calculates the area of a rectangle. 
+//Prompt the user to input the length(integer) and width(integer) of the rectangle, 
+//calculate the area (length * width), and print the result.
+
 package dayThree;
 
 import java.util.Scanner;
