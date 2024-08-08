@@ -1,3 +1,6 @@
+//Day 3 - Input and Output
+//1. Write a program that reads user input and print it to the console.
+
 package dayThree;
 import java.util.Scanner;
 public class InputOutput {
