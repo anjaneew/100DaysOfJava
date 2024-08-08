@@ -1,3 +1,6 @@
+//Day 3 Write a program to read the user input using Scanner class
+// Basic Calculator
+
 package dayThree;
 
 import java.util.Scanner;
